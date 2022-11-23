@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663146007 source:c:\users\tutor-pa\documents\new folder\loopfor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
