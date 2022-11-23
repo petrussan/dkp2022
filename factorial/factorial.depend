@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1667376848 source:c:\users\tutor-pa\documents\new folder\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+
